@@ -13,6 +13,7 @@
 		680A39BF1BB2F43700130038 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 680A39BE1BB2F43700130038 /* Assets.xcassets */; };
 		680A39C21BB2F43700130038 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 680A39C01BB2F43700130038 /* LaunchScreen.storyboard */; };
 		680A39CD1BB2F43700130038 /* FlashlightTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 680A39CC1BB2F43700130038 /* FlashlightTests.swift */; };
+		7277C9DA1BCC6D10007A4C45 /* FlashlightTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 680A39CC1BB2F43700130038 /* FlashlightTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -140,6 +141,7 @@
 		680A39AC1BB2F43600130038 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0700;
 				ORGANIZATIONNAME = DevMountain;
 				TargetAttributes = {
@@ -196,6 +198,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7277C9DA1BCC6D10007A4C45 /* FlashlightTests.swift in Sources */,
 				680A39BA1BB2F43700130038 /* ViewController.swift in Sources */,
 				680A39B81BB2F43700130038 /* AppDelegate.swift in Sources */,
 			);
@@ -387,6 +390,7 @@
 				680A39D31BB2F43700130038 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		680A39D41BB2F43700130038 /* Build configuration list for PBXNativeTarget "FlashlightTests" */ = {
 			isa = XCConfigurationList;
@@ -395,6 +399,7 @@
 				680A39D61BB2F43700130038 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -6,8 +6,8 @@
 //  Copyright © 2015 DevMountain. All rights reserved.
 //
 
-import XCTest
-@testable import Flashlight
+    import XCTest
+    @testable import Flashlight
 
 class FlashlightTests: XCTestCase {
     
